@@ -143,7 +143,9 @@ The water melon has not grown much after it developed its two leaves. The leaves
 
 ![Alt text](https://user-images.githubusercontent.com/86422829/124177892-7a01f980-dace-11eb-8010-5901c241b564.jpeg)
 
-## helped deliver plants to customer
+## helped deliver plants to customer.
+
+![Alt text](https://user-images.githubusercontent.com/86422829/124177881-766e7280-dace-11eb-8765-659926ba6e26.jpeg)
 ## taught my brother, mother and aunt how to use excel for record keeping.
 
 # Task for next 3 days
