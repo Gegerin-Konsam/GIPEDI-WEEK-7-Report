@@ -11,7 +11,7 @@ I interacted with Madam on 28th June 2021. We discussed the problem at hand rega
 - Ask experts in the relevant domain for specific questions on sites like stackedit,stackio etc.
 
 After this Ma'am aslo instructed that i make a trello dashboard where i could organise what i was supposed to do:
-![Alt text](D:\8.Internships\Fast_sf\GIPEDI\11111.Plants and WEEK_reports "Optional title")
+![Alt text](https://user-images.githubusercontent.com/86422829/124173995-71f38b00-dac9-11eb-9d0c-63b7af721fab.PNG)
 
 Later on I joined a 2 day seminar/tutorial on 29th June 2021 called _"AI/ML Accelerator Tutorial: C-level Design & Verification Using HLS"_ hosted by Siemens Semiconductors.
 from the seminar i leanred :
@@ -21,6 +21,8 @@ from the seminar i leanred :
 - Python with Custom Packages generating HDL is not used for synthesis as all it does it map the function to RTL.
 - Developing our own C algorithm and optimizing it is the goal of HLS as the generated RTL will be optimised and it would speed up development cycles by around 30x.
 - huge difference of code line comparing HLS and hand coded RTL. 
+
+After that i wrote a small code to compute the exponent fucntion, it successfully compiled and the algorithm was tested and verified.
 
 
 > test
