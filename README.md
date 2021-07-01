@@ -24,5 +24,5 @@ from the seminar i leanred :
 
 After that i wrote a small code to compute the exponent fucntion, it successfully compiled and the algorithm was tested and verified.
 
-
+![Alt text](https://user-images.githubusercontent.com/86422829/124174016-78820280-dac9-11eb-98b3-ad0e63a46ec6.PNG)
 > test
