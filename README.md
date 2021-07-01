@@ -137,10 +137,14 @@ After that i wrote a small code to compute the exponent fucntion, it successfull
 # Update on Water Melon plant:
 The water melon has not grown much after it developed its two leaves. The leaves only seem to get bigger.
 
-# weekly activities
-* helped clean up the garage.
-* helped deliver plants to customer
-* taught my brother, mother and aunt how to use excel for record keeping.
+# Weekly activities
+
+## helped clean up the garage.
+
+![Alt text](https://user-images.githubusercontent.com/86422829/124177892-7a01f980-dace-11eb-8010-5901c241b564.jpeg)
+
+## helped deliver plants to customer
+## taught my brother, mother and aunt how to use excel for record keeping.
 
 # Task for next 3 days
 
